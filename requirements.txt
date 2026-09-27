@@ -1,0 +1,14 @@
+streamlit==1.38.0
+langchain==0.2.16
+langchain-community==0.2.16
+langchain-google-genai==1.0.10
+faiss-cpu==1.8.0.post1
+sentence-transformers==3.0.1
+pypdf==4.3.1
+unstructured==0.15.9
+python-dotenv==1.0.1
+tiktoken==0.7.0
+
+# Uncomment if you set LLM_PROVIDER=claude or LLM_PROVIDER=openai
+# langchain-anthropic==0.1.23
+# langchain-openai==0.1.23
